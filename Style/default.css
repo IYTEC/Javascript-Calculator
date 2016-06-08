@@ -1,0 +1,14 @@
+.body{
+    background-color: deepskyblue;
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 400px;
+    margin: 10% 0 10% 0;
+/*    border-radius: 10px;*/
+}
+.navigation{
+    margin-top: 1%;
+    padding: 2%;
+    width: 20%;
+/*    margin*/
+}
